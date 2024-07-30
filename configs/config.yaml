@@ -1,0 +1,6 @@
+
+# Configuration file
+database:
+  user: db_user
+  password: db_pass
+  dbname: mydb
